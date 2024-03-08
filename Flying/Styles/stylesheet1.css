@@ -1,0 +1,57 @@
+/*Bethusile Mafumana*/
+body{
+    font-family: Verdana;
+    padding: 0%;
+    margin: 0%;
+    background-color: lightblue;
+}
+
+.p{
+    padding: 0.5rem 0.5rem;
+}
+h1{
+    text-align: center;
+    color: darkgreen;
+    padding: 1em 0 1em 0;
+}
+.menu{
+    list-style-type:none;
+    display: flex;
+}
+.menu a{
+    color: darkblue;
+    text-decoration: none;
+    padding: 0 2em 0 0;
+}
+.menu a:hover{
+    color: white;
+}
+.italicblue{
+    color: blue;
+    font-style: italic;
+}
+#bold{
+    text-align: center;
+    font-weight: bold;
+}
+td, th{
+    padding: 0.5em;
+    border: 2px solid #00BFFF;
+}
+table{
+    background-color: white;
+    border-collapse: collapse;
+}
+#footer{
+    font-weight: bold;
+    text-align: center;
+    size: 70%;
+}
+.links2{
+    display: grid;
+}
+img{
+    border: 1px solid blue;
+    margin: 1em;
+}
+
